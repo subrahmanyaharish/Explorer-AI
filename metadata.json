@@ -1,0 +1,5 @@
+{
+  "name": "Explorer AI",
+  "description": "An AI-powered travel assistant that provides current weather data, AQI, places to visit, clothing suggestions, and popular nearby places with Google Map links for any given location, using real-time information from Google Search.",
+  "requestFramePermissions": []
+}
